@@ -36,9 +36,10 @@ Useful bits of knowledge before start:
 
 
 ----------------------------------------------------
+2) In the second case, we calculate the weights in parallel and simultaneously using the error correction and pocket algorithm. Here three perceptrons are deployed to do the task. The code is written in Matlab and is attached with the comments included. The chosen growth rate is 0.01 and initial weighting factors are selected randomly.
 
 <p align="center">
-<img width="520" height="350" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
+<img width="500" height="350" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
 
 
 
