@@ -25,7 +25,7 @@ Useful bits of knowledge before start:
 <img width="520" height="450" alt="iris" src="https://user-images.githubusercontent.com/71558720/104261895-7a410680-5454-11eb-96ca-e9b18a215a84.PNG"><br /><br />
 <p align="center">
 
-----------------------------------------<br />
+----------------------------------------
 
 # Solution
 
@@ -35,7 +35,8 @@ Useful bits of knowledge before start:
 <img width="700" height="450" alt="f1" src="https://user-images.githubusercontent.com/71558720/104262571-dd7f6880-5455-11eb-9b6e-42005327ddd2.PNG">
 
 
-----------------------------------------------------<br />
+----------------------------------------------------
+
 <p align="center">
 <img width="520" height="350" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
 
