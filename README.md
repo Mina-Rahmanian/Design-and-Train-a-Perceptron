@@ -9,7 +9,7 @@ Useful bits of knowledge before start:
 <br /><br /><br />
 
 
-## Data Description
+## Data Iris Description
 
 + Iris data is one of the most popular datasets in machine learning tasks. Iris is a flowering plant with 260-300 different species.
 + Iris data contains the measurements of 3 different species of Iris: Setosa, Versicolour and Virginia.
