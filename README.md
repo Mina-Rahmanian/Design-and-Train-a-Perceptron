@@ -8,10 +8,13 @@ Useful bits of knowledge before start:
 +  Also if you want to work Convolutional network you can read this link [Convolutional network](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) too. 
 <br /><br /><br />
 
+
 ## Data Description
 
 + Iris data is one of the most popular datasets in machine learning tasks. Iris is a flowering plant with 260-300 different species.
 + Iris data contains the measurements of 3 different species of Iris: Setosa, Versicolour and Virginia.
 + The plot below shows the relation between Petal width and length.
 + The data is provided in two files here: [ iris_train.txt](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/iris_train.txt) and [iris_test.txt](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/iris_test.txt).
-   - Each line in the files represents a separate data point where each data point includes the following comma separated values:
+   - Each line in the files represents a separate data point where each data point includes the following comma separated values: <br />
+        + Sepal length (cm), Sepal width (cm), Petal length (cm), Petal width (cm), class label
+        + Example: 5.1,3.5,1.4,0.2,Iris-setosa
