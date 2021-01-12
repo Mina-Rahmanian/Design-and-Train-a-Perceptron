@@ -40,16 +40,13 @@ Useful bits of knowledge before start:
 
 
 <p align="center">
-<img width="500" height="350" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
+<img width="470" height="320" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
 <p align="center">
 
+----------------------------------------
 
-3) In the third case -> Python, Confusion matrix and precision of built-in libraries are given in [the Keras file](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/PERCEPTRON-Using%20Keras.ipynb).
+3) In the third case -> Python, Confusion matrix and precision of built-in libraries are given in [the Keras file](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/PERCEPTRON-Using%20Keras.ipynb). <br /><br />
 
-
-
-
-<br /><br />
 
 
 
