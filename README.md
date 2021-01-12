@@ -18,3 +18,9 @@ Useful bits of knowledge before start:
    - Each line in the files represents a separate data point where each data point includes the following comma separated values: <br />
         + Sepal length (cm), Sepal width (cm), Petal length (cm), Petal width (cm), class label
         + Example: 5.1,3.5,1.4,0.2,Iris-setosa
+   - Iris_train.txt contains 40 data points for each class. We should Use this to train our perceptron.
+   - Iris_test.txt contains 10 data points for each class. Use this to test that our perceptron works correctly.<br /><br />
+   
+<p align="center">
+<img width="550" height="480" alt="iris" src="https://user-images.githubusercontent.com/71558720/104261895-7a410680-5454-11eb-96ca-e9b18a215a84.PNG"><br /><br />
+<p align="center">
