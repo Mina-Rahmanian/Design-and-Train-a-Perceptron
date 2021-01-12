@@ -44,12 +44,16 @@ Useful bits of knowledge before start:
 <p align="center">
 
 
+3) In the third case -> Python, Confusion matrix and precision of built-in libraries are given in [the Keras file](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/PERCEPTRON-Using%20Keras.ipynb).
 
 
 
 
+<br /><br />
 
 
+
+## ** Mina R **
 
 
 
