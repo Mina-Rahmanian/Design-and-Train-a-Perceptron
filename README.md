@@ -22,25 +22,26 @@ Useful bits of knowledge before start:
    - Iris_test.txt contains 10 data points for each class. Use this to test that our perceptron works correctly.<br /><br />
    
 <p align="center">
-<img width="520" height="450" alt="iris" src="https://user-images.githubusercontent.com/71558720/104261895-7a410680-5454-11eb-96ca-e9b18a215a84.PNG"><br /><br />
+<img width="470" height="410" alt="iris" src="https://user-images.githubusercontent.com/71558720/104261895-7a410680-5454-11eb-96ca-e9b18a215a84.PNG"><br /><br />
 <p align="center">
 
 ----------------------------------------
 
 # Solution
 
-1) one coded in C#, depicts a structure of the following figure. First-class is separated by designing the first set of weights such that the first class is split from the other two. Then, types 2 and 3 are separated in another perceptron by designing appropriate weights. In this platform, the weighting factors are computed sequentially. The code is ---------
+1) In the second case -> C#, depicts a structure of the following figure. First-class is separated by designing the first set of weights such that the first class is split from the other two. Then, types 2 and 3 are separated in another perceptron by designing appropriate weights. In this platform, the weighting factors are computed sequentially. The code is [C# structure.zip](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/C%23%20structure.zip).
 
 <p align="center">
 <img width="700" height="450" alt="f1" src="https://user-images.githubusercontent.com/71558720/104262571-dd7f6880-5455-11eb-9b6e-42005327ddd2.PNG">
-
+<p align="center">
 
 ----------------------------------------------------
-2) In the second case, we calculate the weights in parallel and simultaneously using the error correction and pocket algorithm. Here three perceptrons are deployed to do the task. The code is written in Matlab and is attached with the comments included. The chosen growth rate is 0.01 and initial weighting factors are selected randomly.
+2) In the second case -> MATLAB, we calculate the weights in parallel and simultaneously using the error correction and pocket algorithm. Here three perceptrons are deployed to do the task. The code is written in Matlab and is attached with the comments included. The chosen growth rate is 0.01 and initial weighting factors are selected randomly. The code is [Matlabcode.m](https://github.com/Mina-Rahmanian/Design-and-Train-a-Perceptron/blob/main/Matlabcode.m).
+
 
 <p align="center">
 <img width="500" height="350" alt="f2" src="https://user-images.githubusercontent.com/71558720/104262573-deb09580-5455-11eb-9a8b-26a2b3893445.PNG">
-
+<p align="center">
 
 
 
